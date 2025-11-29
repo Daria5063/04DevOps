@@ -1,0 +1,11 @@
+D:\si131\Сбитнева\test1\test1\bin\Debug\test1.exe.config
+D:\si131\Сбитнева\test1\test1\bin\Debug\test1.exe
+D:\si131\Сбитнева\test1\test1\bin\Debug\test1.pdb
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.csproj.SuggestedBindingRedirects.cache
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.Form1.resources
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.Properties.Resources.resources
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.exe
+D:\si131\Сбитнева\test1\test1\obj\Debug\test1.pdb
